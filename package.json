@@ -12,5 +12,8 @@
     "url": "git@ghub:Tinagru/hexlet-js.git"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
